@@ -1,5 +1,7 @@
-# HMS
+# Hospital Management System
 
+I have Uplodead PPT and Report also.
+ 
 To Go with this project You need to Setup Backnd Connection.
 You also need to setup JAR Files to Setup it.
 
